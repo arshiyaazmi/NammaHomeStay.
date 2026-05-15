@@ -1,7 +1,6 @@
 # NammaHomeStay
 
 A simple Android application for managing and exploring homestays.
-
 Built using Kotlin, Firebase Authentication, and Cloud Firestore in Android Studio.
 
 ---
