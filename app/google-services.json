@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909593339269",
+    "project_id": "internship-202e6",
+    "storage_bucket": "internship-202e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909593339269:android:add46f6d9d667ec55550ec",
+        "android_client_info": {
+          "package_name": "com.example.internship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWafywwYTSTbmvXjU7SEdhDf8akcjlFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
